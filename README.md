@@ -1,16 +1,5 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+Creating a single-page web app that lets users create a pixeled drawings on a adjustable grid.
+Working with starter code of HTML and CSS to build the app, I implemented JavaScript code that allows the user to customize a grid, and color in cells to create a digital work of art!
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
